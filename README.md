@@ -1,5 +1,15 @@
 # Legal RAG & LLM Experiments
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![AI](https://img.shields.io/badge/Focus-LLM%20%2B%20RAG-purple)
+![Domain](https://img.shields.io/badge/Domain-Legal%20NLP-lightgrey)
+![License](https://img.shields.io/github/license/Kairix0/llm_rag_legal_project)
+![Status](https://img.shields.io/badge/Status-Experimental-orange)
+
+![Last Commit](https://img.shields.io/github/last-commit/Kairix0/llm_rag_legal_project)
+![Repo Size](https://img.shields.io/github/repo-size/Kairix0/llm_rag_legal_project)
+![Stars](https://img.shields.io/github/stars/Kairix0/llm_rag_legal_project?style=social)
+
 This project explores **applied Artificial Intelligence with Large Language Models (LLMs)**,
 focusing on legal documents and **Retrieval-Augmented Generation (RAG)** techniques.
 
@@ -12,6 +22,24 @@ The main goal is to experiment with:
 > **Note:** Legal documents and datasets used in this project are in Spanish.
 
 ---
+
+## Project Context
+
+This repository contains **experimental prototypes and technical explorations**
+derived from a larger idea: building a Legal AI assistant to support lawyers in
+case analysis and trial preparation using LLMs and RAG techniques.
+
+The original project was developed collaboratively but was eventually paused due
+to hardware and funding constraints required for large-scale model training.
+
+The code in this repository is **not a production system**, but a collection of
+working prototypes that demonstrate:
+
+- PDF ingestion and preprocessing for legal documents
+- Embedding generation for Spanish legal text
+- Semantic search using FAISS
+- Interaction with local and API-based LLMs
+- Early RAG-style pipelines for legal question answering
 
 ## Project Structure
 
