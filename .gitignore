@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Archives
+*.rar
+*.zip
+
+# Large or generated artifacts
+src/datasets/**/qa_cache_*.json
+
+# API keys / secrets
+*.key
+*.pem

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2807c980-6ef1-49e5-9d87-74935cfb84bd",
+    "input": "¿Que protege esta ley?",
+    "output": "La ley que se ha proporcionado es una ley chilena de 1980 que regula el beneficio de la Seguridad Social de los trabajadores. Esta ley protege a los trabajadores de Chile en el ámbito laboral y financiero por los beneficios de la Seguridad Social, establecidos en la ley de beneficios sociales de los trabajadores de 1980 y las leyes complementarias. La ley reguló los artículos 33 a 45 de la ley de beneficios sociales de los trabajadores de 1980 y las leyes complementarias.",
+    "expected_keyword": []
+  },
+  {
+    "id": "82a715fe-a58a-4443-ba7b-06457eb3b647",
+    "input": "¿A quien cubre esta ley?",
+    "output": "Esta ley cubre a las personas que tienen cargos públicos, como los empresarios y funcionarios públicos, o que tienen cargo con la Administración del Estado. También se cubren las personas que hayan sido condenadas por los delitos de corrupción, asesinato, terrorismo, etc.",
+    "expected_keyword": []
+  },
+  {
+    "id": "e0ff7766-7454-4aec-9dba-112af5df7484",
+    "input": "¿Cuantos articulos posee esta ley?",
+    "output": "Las referencias que leyes, decretos, reglamentos,\nresoluciones, estatutos o cualquier otro cuerpo normativo\nefectúen a los Tipos de Fondos de Pensiones se\nentenderán hechas a los Fondos Generacionales, según\nla equivalencia que defina la Ley 21735.",
+    "expected_keyword": []
+  },
+  {
+    "id": "612dfc69-5ec7-4b0c-ae56-aa6f1af7416a",
+    "input": "¿Cual es el numero de esta ley?",
+    "output": "The number of this law is 18,014.",
+    "expected_keyword": []
+  },
+  {
+    "id": "c0cb86ad-b4f5-47d2-9562-f07c29cb8775",
+    "input": "¿De que habla esta ley?",
+    "output": "La ley 21735 fue promulgada en Chile en 2007 y regula las asignaciones de pensiones y afiliaciones por la Superintendencia de Pensiones y del Mercado de Valores. La ley establece normas para la fiscalización de las asignaciones y establece criterios para el control de los organismos administradores. La ley también regula el procedimiento para la defensa de las personas o empresas denunciadas por incumplimientos en los pagos de pensiones. Además, la ley regula la defensa de los administradores por parte de los organismos administradores en caso de denuncias de incumplimientos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "584c0239-861d-4137-b855-d1a6c36056d7",
+    "input": "¿Cual fue la ultima modificacion de esta ley?",
+    "output": "La última modificación de esta ley fue en la fecha 3 de Abril de 2025, cuando se publicó el artículo 19 del decreto supremo N.° 21735 (Ley Universal de la Pensión de los Empleados). En el artículo 13 bis se estableció la tasa de la pensión de la pensión garantizada universal para todos los trabajadores asignados en Chile a partir de la fecha de entrada de esta ley. La tasa de pensión de la pensión garantizada universal será del 7% de las remuneraciones de los trabajadores asignados en Chile, y se abonará a partir de la fecha siguiente al de la publicación de esta ley.\n\nLa modificación se basó en el artículo 139 del decreto supremo N.° 19447 (Ley de Pensiones de los Empleados de Chile), en el cual se estableció la tasa de pensión de la pensión garantizada universal para todos los trabajadores asignados en Chile a partir de una fecha anterior. La tasa de pensión de la pensión garantizada universal se estableció en el 2% de las remuneraciones de los trabajadores asignados en Chile.\n\nLa última modificación de esta ley fue en la fecha 3 de Abril de 2025, cuando se publicó el artículo 13 bis del decreto supremo N.° 21735 (Ley Universal de la Pensión de los Empleados). En este artículo se estableció que la tasa de pensión de la pensión garantizada universal para todos los trabajadores asignados en Chile es del 7% de las remuneraciones de los trabajadores asignados en Chile, y se abonará a partir de la fecha siguiente al de la publicación de esta ley. La modificación fue publicada en el boletín oficial de la república.",
+    "expected_keyword": []
+  },
+  {
+    "id": "8bbf681f-eb4a-403f-b6e5-d41a668a7135",
+    "input": "¿Cuantos anexos contiene esta ley?",
+    "output": "La ley 20802 del Código del Trabajo contiene dos anexos:\n\n1. Anexo 1: Modificaciones sobre los artículos 166 bis, 168, 177 bis, 178, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 196, 197, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 220, 221, 222, 223, 224, 225, 226, 227, 228, 230, 231, 232, 233, 234, 235 y 236 del Código del Trabajo, de 1980.\n2. Anexo 2: Sanciones de la presente ley a la Ley 15929 del Código del Trabajo, de 1980.",
+    "expected_keyword": []
+  },
+  {
+    "id": "0111583c-cbd4-4356-aedd-30785cf41bda",
+    "input": "¿Cuantos articulos tiene esta ley?",
+    "output": "La ley 19981 corresponde a la Ley de Pensiones de los trabajadores públicos y se divide en 4 artículos:\n\n1. Artículo 1: Define los términos y objetivos de la ley.\n2. Artículo 2: Establece el régimen de pensiones para los trabajadores públicos y la fundación de la Superintendencia de Pensiones de los trabajadores públicos.\n3. Artículo 3: Detalla los mécanismos de financiación de las pensiones de los trabajadores públicos y la determinación del porcentaje de aporte de los trabajadores y los empleadores.\n4. Artículo 4: Regula la afiliación de los trabajadores al régimen de pensiones y la determinación de los plazos de afiliación y desafiliación.",
+    "expected_keyword": []
+  },
+  {
+    "id": "b7134b21-ef6b-4143-b840-c9308e820088",
+    "input": "¿Que regula esta ley?",
+    "output": "Esta ley regula la fiscalización de la venta de bienes y servicios de\nconsumo de manera individual o colectiva, en el sector público y privado.",
+    "expected_keyword": []
+  },
+  {
+    "id": "9ec34b37-ebe9-458d-9afe-02d0efa25a96",
+    "input": "¿Cuantos titulos tiene la ley?",
+    "output": "La ley de 1980 tiene 17 titulos, que abarcan los artículos 41 a 205 de la Constitución.",
+    "expected_keyword": []
+  },
+  {
+    "id": "1a0e376c-6efe-4a8c-850f-469a793baf67",
+    "input": "¿Quien dio la aprobacion de esta ley?",
+    "output": "La ley fue aprobada por el Congreso Nacional de Chile.",
+    "expected_keyword": []
+  },
+  {
+    "id": "3497a112-5202-4706-8583-ef6a1f39de8c",
+    "input": "¿Cuando comienzan a regir las normas de esta ley?",
+    "output": "Las modificaciones en el Título XV del decreto ley N° 3.500, de 1980, introducidas por la presente ley, entrarán en vigencia a la fecha de su publicación en el diario oficial.",
+    "expected_keyword": []
+  },
+  {
+    "id": "c9f076d4-1e07-493a-9d3e-c8f3f0d77310",
+    "input": "¿De cuanto es la cotizacion establecida a los empleadores?",
+    "output": "La cotización establecida a los empleadores será de la rentabilidad protegida de la prestación de asistencia social, según las condiciones establecidas en el artículo 92 del decreto ley N° 3.500 de 1980. Estas prestaciones serán pagadas a partir de la fecha de incorporación de la relación laboral del trabajador no sujeto al Seguro Social, lo cual se determinará conforme a la ley.",
+    "expected_keyword": []
+  },
+  {
+    "id": "16cbcaa2-191e-4829-9440-26cab73f4e68",
+    "input": "¿La cotizacion de donde se obtiene segun esta ley?",
+    "output": "La ley 19903, establece que \"los trabajadores de las empresas con 100 o más trabajadores deberán hacer una cotización de 20% del salario neto de cada trabajador.\"",
+    "expected_keyword": []
+  },
+  {
+    "id": "7858f377-ad03-4781-ada9-6ad5e45816df",
+    "input": "¿cuanto de la remuneracion del trabajador se destinara a sus cuentas de capitalizacion individual?",
+    "output": "\"Las organizaciones de trabajo como las empresas o las cooperativas, con las que se adquieren acciones comenzando desde el año 1981 y por los años siguientes, son las encargadas de determinar en cada caso el porcentaje del monto neto de ingresos de cada una de ellas como lo establezcan la ley de 28 de diciembre de 1979, N.º 1920, y la ley de 3.500, de 1980, en las que se señalan las disposiciones sobre el funcionamiento de las organizaciones de trabajo, la obligación de informar a la Superintendencia de Pensiones sobre el porcentaje del monto neto de ingresos de cada una de ellas, para la determinación de los recursos destinados a la protección previsional y a la asignación de fondos para el fomento de la educación y el desarrollo del trabajo.\"",
+    "expected_keyword": []
+  },
+  {
+    "id": "018d00e3-55ec-478b-bd83-b1a0b6e9c076",
+    "input": "¿Tengo un cliente con mas de 65 años que derechos posee segun esta ley?",
+    "output": "En base a la información proporcionada, el cliente con mas de 65 años tiene derechos de pensiones por vejez según la ley 3.500 de 1980. El valor de la pensión correspondiente a la renta vitalicia será calculado en función de la renta total de los trabajadores además de los recursos que corresponden a las cotizaciones a los trabajadores. La tasa de interés promedio de las rentas vitalicias será determinada en función del número de meses transcurridos desde la fecha legal de pensionarse por vejez.",
+    "expected_keyword": []
+  },
+  {
+    "id": "1ba88a45-e3f2-4b3e-84df-252a85d5e983",
+    "input": "¿Que pasa si tengo un cliente hombre con 68 años de edad y tiene menos de 240 meses enterados con el mismo empleador?",
+    "output": "En caso de un cliente hombre con 68 años de edad y menos de 240 meses enterados con el mismo empleador, se le otorgará la pensión de invalidez según los criterios de los Decretos Supremos N° 3.500 y 2.499. La pensión de invalidez será otorgada desde el mes que incluya la edad de 68 años y menos de 240 meses enterados con el mismo empleador. El plazo máximo para la prestación será de 2 años desde el momento en que se estableció la incapacidad de trabajo. El ejercicio de la prestación se suspenderá si el cliente regresa al trabajo o si se desempeña una ocupación de mayor rentabilidad.\n\nSi el cliente regresa al trabajo, se suspende la prestación de invalidez desde el momento en que regresa al trabajo, y se reanuda cuando se vuelva a desempeñar una ocupación de menor rentabilidad o baja capacidad de trabajo. Si se desempeña una ocupación de mayor rentabilidad o baja capacidad de trabajo, se suspende la prestación hasta el momento en que se desempeñara una ocupación de menor rentabilidad o baja capacidad de trabajo.",
+    "expected_keyword": []
+  },
+  {
+    "id": "cd6937c6-b644-4270-b8b0-0170d8909bca",
+    "input": "¿Segun que o quien se considera la invalidez del pensionado?",
+    "output": "El artículo 90 del Decreto Ley 1980 establece que las rentas imponibles anuales para el Seguro Social Previsional son definidas por el número de meses en que se ha enseñado y se ha trabajado. Para los trabajadores empleados en las empresas, ésta es igual a 12 meses. Para los trabajadores independientes, se consideran los meses en los que se han prestado sus servicios como trabajadores o trabajadores auxiliares, o se han realizado trabajos por cuenta propia. Los trabajadores independientes deben ser inscritos en el Seguro Social Previsional para recibir aseguramiento de emergencia y asistencia médica. En el artículo 15 del Decreto Ley 1980, se establece que los trabajadores empleados en las empresas tienen la obligación de pagar el Seguro Social Previsional sobre las rentas imponibles. Los trabajadores independientes también deben pagar el Seguro Social Previsional sobre las rentas imponibles si se han presentado al Servicio de Inscripción del Seguro Social Previsional como trabajadores o trabajadores auxiliares. Los trabajadores independientes que se presentan al Servicio de Inscripción del Seguro Social Previsional como trabajadores auxiliares deben realizar los trabajos como trabajadores auxiliares durante un período de 12 meses para que se les reconozca como tales y se les asignen un número de trabajadores auxiliares.",
+    "expected_keyword": []
+  },
+  {
+    "id": "b448206d-f342-440b-b214-3b790fece06b",
+    "input": "¿A que dara origen la cotizacion?",
+    "output": "La cotización se origina en el año de la\nreconocimiento del afiliado en el Servicio Social de\nla Seguridad.",
+    "expected_keyword": []
+  },
+  {
+    "id": "aba6f481-966d-4bd4-a8cf-9f41286d7975",
+    "input": "¿Mi clienta de 66 años, tiene cotizaciones enteradas de conformidad, que derechos le da esto segun esta ley?",
+    "output": "En esta ley, se establecen las condiciones para la prestación de las pensiones de la Seguridad Social Previsional a trabajadores y pensionados con más de 18 años de edad. Para determinar si su clienta de 66 años tiene cotizaciones enteradas de conformidad, que derechos le da esto según esta ley, se deben verificar las siguientes condiciones:\n\n1. El trabajador o pensionado debe tener una edad de más de 18 años.\n2. El trabajador o pensionado debe haber trabajado en una empresa de su mismo sector o en una empresa del sector de la Administración Pública o de los organismos de la Administración Pública.\n3. El trabajador o pensionado debe haber trabajado en una empresa de su mismo sector o en una empresa del sector de la Administración Pública o de los organismos de la Administración Pública durante un periodo de más de 1 año.\n4. El trabajador o pensionado debe haber trabajado en una empresa de su mismo sector o en una empresa del sector de la Administración Pública o de los organismos de la Administración Pública durante un periodo de más de 6 meses con una jornada laboral semanal de más de 20 horas.\n\nSi su clienta cumplen estas condiciones, tendrán derecho a la prestación de la pensión de la Seguridad Social Previsional. En caso de no cumplir con estas condiciones, no tendrán derecho a la prestación de la pensión.\n\nLa ley también establece los derechos de los trabajadores o pensionados que no tienen derecho a la prestación de la pensión de la Seguridad Social Previsional. La ley establece que no son pensionados los trabajadores o pensionados que no cumplen con las condiciones establecidas en los artículos 4 a 7.\n\nLa ley también establece los beneficios que se otorgarán a los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los beneficios se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.\n\nLa ley también establece los derechos de los trabajadores o pensionados que cumplen con las condiciones establecidas en los artículos 4 a 7. Los derechos se otorgarán en base a la duración del servicio y a la edad del trabajador o pensionado.",
+    "expected_keyword": []
+  },
+  {
+    "id": "e7bde461-e868-4e44-a3c7-a17f5176caff",
+    "input": "¿Que busca como objetivo el fondo autonomo de proteccion?",
+    "output": "El fondo autonomo de protección busca lograr el objetivo de garantizar la protección de los intereses de la administración y los recursos de la administración del fondo. Para lograr este objetivo, el fondo autonomo de protección realizará una serie de actividades, como la investigación de las presuntas fallas en el sistema de control y la gestión del fondo, la identificación de los recursos de la administración y la evaluación de la efectividad de los medios de control y gestión, la propuesta de medidas para mejorar la gestión del fondo y la garantía de su protección, y la realización de acciones correctivas cuando se identifican fallas en el fondo de protección.",
+    "expected_keyword": []
+  },
+  {
+    "id": "e487c134-a83c-49ba-a92e-542d1ae237bb",
+    "input": "¿Por que el aporte anual al fondo sube despues de unos años publicada la ley?",
+    "output": "El artículo 19 del ley N° 19735 establece que los recursos patrimoniales del fondo se pueden utilizar para la prestación de prestaciones del régimen de la Seguridad Social Previsional. La ley también establece que los recursos del fondo son destinados a la prestación de prestaciones de los beneficiarios de la Seguridad Social Previsional, así como a la financiación de las operaciones y contratos del fondo.\n\nAdemás, la ley N° 19735 establece que los recursos del fondo se pueden utilizar para la financiación de la gestión de las inversiones realizadas por las entidades administradoras de las prestaciones de la Seguridad Social Previsional.\n\nLa ley también establece que los recursos del fondo se pueden utilizar para la financiación de las operaciones y contratos del fondo con instrumentos, operaciones y contratos destinados a la adquisición de instrumentos, operaciones y contratos con mercados nacionales e internacionales, así como la financiación de la adquisición de instrumentos, operaciones y contrato destinados a la realización de inversiones en mercados nacionales e internacionales.\n\nFinalmente, la ley establece que los recursos del fondo se pueden utilizar para la financiación de la administración del fondo, en particular para los pagos a las entidades administradoras de las prestaciones de la Seguridad Social Previsional y a las entidades administradoras de las inversiones realizadas por las entidades administradoras de las prestaciones de la Seguridad Social Previsional.",
+    "expected_keyword": []
+  },
+  {
+    "id": "23676695-cfd5-47ba-8dc6-1754258b812d",
+    "input": "¿Quien estara a cargo de la administracion del fondo?",
+    "output": "El Consejo Directivo de la Universidad Técnica de Chile está a cargo de la administración del Fondo Autónomo de Protección Previsional.",
+    "expected_keyword": []
+  },
+  {
+    "id": "f40cc065-5647-4d2c-a0d2-8d642215a19c",
+    "input": "¿Que posible sentencia podria tener mi cliente al haber violado esta ley?",
+    "output": "Si el cliente ha violado la Ley 21735 de Pensiones para el Mercado Financiero, la Superintendencia de Pensiones podría imponer una sanción por delito de contrario a la fiscalización competa, conforme a Artículo 37 de la Ley. Esta sanción podría ser en forma de multa, carga administrativa o carga\n    Penal, según el grado de infracción y la naturaleza de los\n    recursos implicados. En cualquier caso, el cliente\n    podría ser obligado a devolver los recursos que fueron\n    embargados como garantía, y a pagar la sanción impuesta.",
+    "expected_keyword": []
+  },
+  {
+    "id": "1714d1d1-17f8-4936-96dd-5c02af7b8c0a",
+    "input": "¿Que atribuciones tendra el director ejecutivo?",
+    "output": "El director ejecutivo será responsable de:\n\n1. Coordinar y supervisar la ejecución de los planes y proyectos de la empresa.\n2. Asesorar al presidente y los directivos en materias de gestión de la empresa.\n3. Representar a la empresa ante autoridades públicas, organismos gubernamentales y demás entidades.\n4. Gestionar la relación con los medios de comunicación y mantener la imagen pública de la empresa.\n5. Coordinar y supervisar la labor de los departamentos y equipos de la empresa.\n6. Promover la creación de nuevos negocios y proyectos de desarrollo.\n7. Fiscalizar el cumplimiento de las normas legales y reglamentarias en la empresa.\n8. Coordinar y supervisar la gestión de las relaciones con los proveedores y clientes de la empresa.\n9. Garantizar el cumplimiento de las metas y objetivos de la empresa.\n10. Asesorar al presidente y los directivos en materias de política y estrategia de la empresa.",
+    "expected_keyword": []
+  },
+  {
+    "id": "218451e3-ce97-49db-8bcb-5a29314bd046",
+    "input": "¿Que autoridades estan relacionadas a esta ley?",
+    "output": "Las autoridades relacionadas a esta ley son:\n\n* El Ministerio de Hacienda.\n* El Servicio de Control General de la Administración Civil.\n* El Servicio de Control General de la Policía Civil.\n* La Comisión Nacional de Superintendencia de las Entidades\nFinancieras y de la Previsión Social.\n* El Servicio de Control General de las Administradoras de\nFondos de Pensiones.\n* La Superintendencia del Mercado de Valores y la\nComisión para el Mercado Financiero.\n* La Comisión para el Mercado de Seguridades.\n* El Servicio de Control General de las Direcciones\nAdministrativas y del Servicio Exterior de Chile.\n* El Servicio de Control General de la Dirección\nGeneral de Energía y Minería.\n* El Servicio de Control General de la Dirección\nGeneral de Turismo.\n* El Servicio de Control General de la Dirección\nGeneral de la Educación.\n* El Servicio de Control General de la Dirección\nGeneral de la Salud.\n* El Servicio de Control General de la Dirección\nGeneral de la Agricultura.\n* El Servicio de Control General de la Dirección\nGeneral de la Marinera.\n* El Servicio de Control General de la Dirección\nGeneral de la Fuerzas Armadas.\n* El Servicio de Control General de la Dirección\nGeneral de la Policía Militar.\n* El Servicio de Control General de la Dirección\nGeneral de la Policía Naval.\n* El Servicio de Control General de la Dirección\nGeneral de la Policía Carabineros de Chile.\n* El Servicio de Control General de la Dirección\nGeneral de la Policía Civil.\n* El Servicio de Control General de la Dirección\nGeneral de la Policía Informática.\n* El Servicio de Control General de la Dirección\nGeneral de la Dirección de la Policía Federal.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile.\n* El Servicio de Control General de la Dirección\nGeneral de la Dirección del Servicio Exterior de Chile en Relaciones\nExteriores.\n* El Servicio de Control General de la Dirección\nGeneral de la Dirección del Servicio Exterior de Chile en\nRelaciones Internacionales.\n* El Servicio de Control General de la Dirección\nGeneral de la Dirección del Servicio Exterior de Chile en\nRelaciones Económicas.\n* El Servicio de Control General de la Dirección\nGeneral de la Dirección del Servicio Exterior de Chile en\nRelaciones Sociales.\n* El Servicio de Control General de la Dirección\nGeneral de la Dirección del Servicio Exterior de Chile en\nRelaciones Científicas.\n* El Servicio de Control General de la Dirección\nGeneral de la Dirección del Servicio Exterior de Chile en\nRelaciones Culturales.\n* El Servicio de Control General de la Dirección\nGeneral de la Dirección del Servicio Exterior de Chile en\nRelaciones Humanitarias.\n* El Servicio de Control General de la Dirección\nGeneral de la Dirección del Servicio Exterior de Chile en\nRelaciones de Paz.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en Relaciones\nConsejeras.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en Relaciones\nConsejeras Internacionales.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en Relaciones\nConsejeras Multilaterales.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en Relaciones\nConsejeras Intergubernamentales.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en Relaciones\nConsejeras Regionales.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en Relaciones\nConsejeras Especiales.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en\nRelaciones Consejeras Especiales Internacionales.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en\nRelaciones Consulares.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en Relaciones\nConsejeras Consulares Especiales.\n* El Servicio de Control General de la Dirección\nGeneral del Servicio Exterior de Chile en Relaciones\nConsejeras Consulares Especiales Internacionales.\n\nLa ley 13.370 de 1997 establece la\nComisión de Contradictorio y Superintendencia de las\nEntidades Financieras y la Previsión Social.\nLa ley 21735 de 2004 le establece como\na la Dirección General de la Superintendencia de las\nEntidades Financieras y la Previsión Social.\nLa ley 21735 de 2004 establece que se\nentrega a la Dirección General de la Superintendencia\nde las Entidades Financieras y la Previsión Social la\nComisión de Contradictorio y Superintendencia de las\nEntidades Financieras y la Previsión Social.",
+    "expected_keyword": []
+  },
+  {
+    "id": "8ca28df9-c66a-4a31-8a7c-de7ffb5667bd",
+    "input": "¿Quien no podra ser designado consejero?",
+    "output": "1. Los cargos de exclusiva confianza comprendidos en el\nnúmero 10 del artículo 32 de la Constitución Política de\nla República.\n2. Los cargos que se desempeñen sobre la base de honorarios y\nque asesoren directamente a las autoridades comprendidas en el\nartículo 38 bis de la Constitución Política de la República.\n3. El de trabajador de una Administrador de Fondos de\nPensiones.\n4. El de funcionario de la Superintendencia de\nPensiones.\n5. El de trabajador de una Administrador de Fondos de\nPensiones.",
+    "expected_keyword": []
+  },
+  {
+    "id": "4b868bfb-7a8a-430e-a072-e80f75ed7e39",
+    "input": "¿Que requisitos deben cumplir los consejeros?",
+    "output": "Los consejeros deben ser profesionales con experiencia en escritura y traducción, y ser ciudadanos que haya vivido en Chile durante los últimos\n10 años. También deben ser mayores de 30 años y tener una educación\n    2.1. Los consejeros deben ser ciudadanos naturales\nde Chile que hayan vivido en el país durante los últimos 10 años, y\n haber trabajado como escritoras o traductoras profesionales\n    2.2. Los consejeros deben tener una edad mayor a 30 años\n    2.3. Los consejeros deben tener una educación\ncompleta de grado secundario o superior, y\n    2.4. Los consejeros deben tener experiencia en\nescritura y traducción profesional.",
+    "expected_keyword": []
+  },
+  {
+    "id": "0dd61b46-5cf1-41d6-a639-6440d204f092",
+    "input": "¿En base a que principio o principios debe regir el organismo administrador regulado?",
+    "output": "El organismo administrador regulado deberá regirse en base a los principios de la Ley de la Protección Previsional para los trabajadores de la administración pública, de la Ley de Inversión, el Régimen de Inversión, la Ley de Educación y Salud Social y la Ley de Educación y Salud Social para las empresas y las actividades económicas.",
+    "expected_keyword": []
+  },
+  {
+    "id": "98294c81-1a8a-404b-a8e7-9611c9843099",
+    "input": "¿Que ejerce el consejo segun esta ley?",
+    "output": "El consejo directivo ejerce las funciones y atribuciones delegadas por las leyes. Según la ley 20.285, el consejo directivo es responsable de acceder a la información pública. Además, el consejo directivo puede delegar algunas de sus facultades a su presidente, vicepresidente o al director ejecutivo del organismo administrador.",
+    "expected_keyword": []
+  }
+]

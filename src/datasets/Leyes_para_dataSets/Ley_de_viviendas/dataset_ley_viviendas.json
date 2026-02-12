@@ -1,0 +1,182 @@
+[
+  {
+    "id": "49f0b4bf-0ce8-4be9-af07-0b4097b2e743",
+    "input": "¿Que protege esta ley?",
+    "output": "La Ley N° 19401 de 1993 promueve los ahorros metódicos para el pago del precio de la compraventa de las viviendas. Se exigen aportes periódicos en dinero a las entidades de ahorro metódico.",
+    "expected_keyword": []
+  },
+  {
+    "id": "70bda96a-09b9-493b-be5f-879013216de6",
+    "input": "¿A quien cubre esta ley?",
+    "output": "La ley que se refiere a es la Ley 19401 de la República de Chile, que regula el subsidio habitacional para el arrendamiento de viviendas con promesa de compra venta.",
+    "expected_keyword": []
+  },
+  {
+    "id": "ecd55d8f-dfc3-4e43-85d6-d6384d38a70c",
+    "input": "¿Cuantos articulos posee esta ley?",
+    "output": "Según la ley que se referirá, esta ley contiene 24 artículos. Los artículos de esta ley son:",
+    "expected_keyword": []
+  },
+  {
+    "id": "41efd9f0-7323-4834-9a27-965779634a69",
+    "input": "¿Cual es el numero de esta ley?",
+    "output": "La ley es la 19281.",
+    "expected_keyword": []
+  },
+  {
+    "id": "127c500f-8326-456e-8a66-62828487e6f8",
+    "input": "¿De que habla esta ley?",
+    "output": "La Ley 19281 es una ley de Chile que regula las sociedades inmobiliarias propietarias y las instituciones financieras con respecto a las cuotas y los recursos que se les otorgan. La ley otorga al Superintendencia de Bancos e Instituciones Financieras la facultad de reglamentar a las sociedades inmobiliarias que traten de las valores y seguros dentro de su jurisdicción. La ley también establece los requisitos que se deben cumplir para la otorgación de las cuotas y los recursos, y establece las penas por la incomplencia de estos requisitos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "6ab0b6f1-5373-48d8-91e6-ec99382f04b1",
+    "input": "¿Cual fue la ultima modificacion de esta ley?",
+    "output": "La última modificación de la Ley 19281 fue en el año 1993, cuando el Presidente Patricio Aylwin firmó la Ley de la República.",
+    "expected_keyword": []
+  },
+  {
+    "id": "65f87d84-8202-4e03-89a1-ebfcacb78827",
+    "input": "¿Cuantos anexos contiene esta ley?",
+    "output": "Ley 20712 no tiene anexos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "abba1d15-a9c7-49f1-85a2-3c1552b3a87a",
+    "input": "¿Cuantos articulos tiene esta ley?",
+    "output": "19401",
+    "expected_keyword": []
+  },
+  {
+    "id": "4a80de53-3e7b-4668-99c8-d70879225f98",
+    "input": "¿Que regula esta ley?",
+    "output": "La ley 19281 de 1993 regula las cuentas de arrendamientos del seguro de viviendas, las rentas de arrendamientos del seguro de viviendas y los fondos suficientes para el pago del arrendamiento. Establece las condiciones a las que se deben someter los arrendamientos de viviendas, las rentas de arrendamientos de viviendas y los fondos suficientes para el pago del arrendamiento.",
+    "expected_keyword": []
+  },
+  {
+    "id": "ee69d780-4393-4b15-a0df-d793247e6a4f",
+    "input": "¿Cuantos titulos tiene la ley?",
+    "output": "La ley 19401 tiene 24 artículos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "3da9e932-5f16-4903-a304-f3945e3eccea",
+    "input": "¿Quien puede acogerse a sus disposiciones segun esta ley?",
+    "output": "Esta ley se aplica a las Fundaciones de las Culturas y las Artes de Chile y a las entidades de la administración pública y la administración municipal que gestionan actividades culturales y artísticas.",
+    "expected_keyword": []
+  },
+  {
+    "id": "db6caadf-7f33-4330-9bbb-9cdc6b6dea98",
+    "input": "¿Quien esta autorizado para abrir y mantener cuentas de ahorro para el arrendamiento de viviendas con promesa de compraventa segun esta ley?",
+    "output": "Las sociedades inmobiliarias podrán abrir y mantener cuentas de ahorro para el arrendamiento de viviendas con promesa de compraventa según esta ley, y los contratos de arrendamiento se celebrarán por escritura pública y se inscribirán en el Registro de la Ley. Las garantías para el cumplimiento de los contratos prometidos se solicitarán por los promitentes arrendatarios y se resolverán por el Ministerio de la Ley. Los contratos de arrendamiento de viviendas con promesa de compraventa se liquidarán al precio de la compraventa prometida, y las obligaciones de los contratos de arrendamiento se efectuarán en los plazos señalados en los contratos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "4676c59c-ff07-43af-876f-4e7513958545",
+    "input": "¿cual es el objeto de recibir un ahorro metodico y el ahorro voluntario segun esta ley?",
+    "output": "El objeto de recibir un ahorro metódico y un ahorro voluntario según esta ley es recibir un subsidio habitacional en la forma de ahorro metódico y voluntario, respectivamente, para realizar una compraventa de una vivienda. Estos subsidios son otorgados con el fin de incentivar la construcción y venta de viviendas.",
+    "expected_keyword": []
+  },
+  {
+    "id": "a622ba39-2dc6-42b0-aebe-1d0d1d5bc7bf",
+    "input": "¿El plazo convenido por ambas partes sobre el pago de las rentas, puede ser cualquiera mientras este acordado entre ambas partes?",
+    "output": "El plazo convenido por ambas partes sobre el pago de las rentas, puede ser cualquiera mientras este acordado entre ambas partes.",
+    "expected_keyword": []
+  },
+  {
+    "id": "25e5eac6-24c1-48a6-9e1e-85bdc69108a4",
+    "input": "¿Quienes pueden ser los titulares de estas cuentas?",
+    "output": "Las cuentas de compensación de asignación familiar son cuentas que pueden ser abiertas por personas naturales para depositar fondos que desean utilizar para pagar el precio de una vivienda alquilada o arrendada con promesa de compra. Estas cuentas deben estar gestionadas por instituciones del sector financiero, como las cajas de compensación de asignación familiar o las casas de compensación. Las cuentas deben ser mantenidas de manera separada y independiente del patrimonio de las instituciones y se invertidos en cuotas de fondos fiscalizados por la Superintendencia de Valores y Seguros. Los recursos depositados en estas cuentas deben ser mantenidos de manera separada y independiente del patrimonio de las instituciones y se invertidos en cuotas de fondos fiscalizados por la Superintendencia de Valores y Seguros.",
+    "expected_keyword": []
+  },
+  {
+    "id": "e7c02ced-2fc0-431e-aa8b-5b9ccb89be7e",
+    "input": "¿Que funcion realiza la caja de compensacion segun esta ley?",
+    "output": "La Ley 19281 de Chile, \"Ley de la Caja de Compensación de Tasas sobre Hacienda y Aduanas\", establece el régimen de compensación de tasas sobre las actividades de la Hacienda y las Aduanas de Chile.",
+    "expected_keyword": []
+  },
+  {
+    "id": "00a25f69-dd31-4240-81c2-07a7547ebd1c",
+    "input": "¿Cual es el fin de las denominadas cuentas de ahorro segun esta ley?",
+    "output": "El fin de las cuentas de ahorro según esta ley es pagar la renta de arrendamiento y acumular fondos suficientes para el precio de la compraventa de la vivienda. Las condiciones específicas del contrato de ahorro metódico se establecerán en el artículo 20.08.19401. Los recursos aportados se aplicarán a un porcentaje del precio de la compraventa de la vivienda, como se especifica en el artículo 28.08.1995. Los recursos aportados se pagarán en forma directa a la entidad correspondiente, hasta que el arrendatario promitente comprador requiera nuevamente a su empleador el descuento correspondiente.",
+    "expected_keyword": []
+  },
+  {
+    "id": "e08c2587-9b7f-44b4-8587-e1df000d88f0",
+    "input": "¿Que cargo o funcion desempeña la superintendencia de valores?",
+    "output": "La Superintendencia de Valores es una entidad administrativa pública chilena que se encarga de la supervisión y reglamentación del sector financiero. Su función es garantizar la estabilidad y el crecimiento económico, asegurar la seguridad de los fondos y la protección de los derechos de los usuarios. La Superintendencia de Valores es el organismo regulador de las instituciones financieras en Chile, incluyendo bancos, sociedades de fomento, empresas de seguros y mutualistas.",
+    "expected_keyword": []
+  },
+  {
+    "id": "4032cef4-197d-405b-9156-9dbb87ace266",
+    "input": "¿Cuantas veces puede cambiarse de institucion dentro de un año un interesado?",
+    "output": "Según la Ley 19401, un interesado puede cambiarse de institucion dentro de un año sin ser requerido el cambio de titulo de la cuenta. Sin embargo, se requiere que los interesados informen al organismo fiscalizador del cambio de institucion y que se actualice la cuenta en consecuencia.",
+    "expected_keyword": []
+  },
+  {
+    "id": "8d686530-5c51-4003-b0e9-8e5163781ab8",
+    "input": "¿Cuales son las condiciones para que un interesado pueda cambiarse de institucion?",
+    "output": "En Chile, según la Ley 19401, un interesado puede cambiar de institución si se presenta pruebas de que se ha terminado el contrato de arrendamiento con promesa de compraventa y se ha liquidado la deuda. En este caso, el interesado debe presentar una petición ante el Ministerio de la Vivienda y Urbanismo, junto a los documentos que demuestren la terminación del contrato y la liquidación de la deuda. El Ministerio debe verificar las pruebas y, si se satisfacen, emitir un certificado de liquidación de la deuda y de transferencia de derechos de arrendamiento. El interesado puede entonces presentar esta resolución ante el árbitro para que se registrada la transferencia de derechos de arrendamiento a la nueva institución.",
+    "expected_keyword": []
+  },
+  {
+    "id": "246c109f-8e2b-422d-a9a9-102a981bbfde",
+    "input": "¿Quien pagara la renta de arrendamiento y descontaran la comision?",
+    "output": "En caso de que los herederos hubieran continuado con el contrato de arrendamiento con promesa de compraventa, el arrendador promitente comprador podría hacer valer la función como causal en el nuevo contrato de arrendamiento con promesa de compraventa, sin que el arrendador promitente comprador hubiera cesado el contrato original con promesa de compraventa, siempre que en el nuevo contrato se hubiera incluido el precio de la compra y la transferencia de los fondos en caso de cesión, mientras que los herederos no hubieran podido continuar con el contrato original de compraventa.",
+    "expected_keyword": []
+  },
+  {
+    "id": "784eb368-ea69-46da-b08f-7c53d9a8a96b",
+    "input": "¿Quien deve llevar un registro de los numeros de cuotas de participacion?",
+    "output": "Las partes deben llevar un registro de los numeros de cuotas de participación.",
+    "expected_keyword": []
+  },
+  {
+    "id": "858ad343-6312-4c3d-bbaa-f915acb7c59a",
+    "input": "¿Cuales son los terminos que le corresponden a los titulares segun esta ley?",
+    "output": "La ley 19401 establece los términos que deben corresponder a los titulares según esta ley. Según la ley, los términos deben ser:",
+    "expected_keyword": []
+  },
+  {
+    "id": "a5bf792c-650c-44ab-99ca-1d3c865946ec",
+    "input": "¿Que sucede en caso de disolucion de la institucion que mantenga las cuentas?",
+    "output": "El decreto N° 1970 dictado para la administración de los fondos para la vivienda establece que, en caso de disolución de la institución que mantiene las cuentas, se producirá una suspensión de pagos del pago de los fondos hasta que no se haya establecido una nueva institución para el pago de los fondos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "d32ddff8-8195-4654-b713-11d79775df54",
+    "input": "¿Entre quien se lleva a cabo el contrato de ahorro metodico?",
+    "output": "El contrato de ahorro metodico se lleva a cabo entre una sociedad anónima de seguros y préstamos y los clientes de la misma.",
+    "expected_keyword": []
+  },
+  {
+    "id": "ae7933fa-78ce-4083-b22d-f8ba8c3ed10b",
+    "input": "¿Por que no se puede exceder el veinticinco por ciento de la renta liquida mensual que acredite tener al momento de celebrar el contrato de arrendamiento con promesa de compraventa?",
+    "output": "La ley 19401 establece que no se puede exceder el veinticinco por ciento de la renta liquida mensual que acredite tener al momento de celebrar el contrato de arrendamiento con promesa de compraventa. Esto se establece en los artículos 23 y 24 de la ley, donde se señalan que las sociedades inmobiliarias no pueden exceder el veinticinco por ciento de su renta liquida mensual, ni la renta total de sus ingresos por la venta de bienes o servicios (en este caso, la compraventa). Esta limitación se establece para evitar que las sociedades inmobiliarias se descontrolen y no puedan generar excesos de renta que no puedan mantener.",
+    "expected_keyword": []
+  },
+  {
+    "id": "503fa34f-a667-4b4a-989a-b248158b0735",
+    "input": "¿En que se basara la renta liquida?",
+    "output": "La renta liquida se basará en la renta de arrendamiento y la suma de los fondos que quedan por pagar como resultado de la liquidación de la vivienda. Esto se establecerá en el contrato de arrendamiento con promesa de compraventa de una vivienda.",
+    "expected_keyword": []
+  },
+  {
+    "id": "da8c1c55-b39e-4cb7-a767-1d0713de072e",
+    "input": "¿Que retribucion obtendran las instituciones segun esta ley?",
+    "output": "Según la Ley 19401, las instituciones que obtendrán retribuciones según esta ley serán las entidades de interés fiscales (EIF), las entidades financieras y las entidades de interés fiscal de las entidades financieras, las entidades de interés fiscal de las sociedades de seguro, las entidades de interés fiscal de las mutualidades de ahorras y previsión, las mutualidades de ahorras y previsión y las mutualidades de ahorras y previsión de los empleados.",
+    "expected_keyword": []
+  },
+  {
+    "id": "5b16b701-1aa6-4541-a888-25088d1e182f",
+    "input": "¿La comision sera establecida libremente por cada institucion?",
+    "output": "En España, la Ley 29 de 1995 sobre subsidios de arrendamiento y transferencias de derechos sobre inmuebles, regula las transferencias de derechos de arrendamiento de una vivienda al otro, como la transferencia de una cuenta de arrendamiento de otra. La ley establece que las transferencias de derechos de arrendamiento debe ser establecida libremente por cada institución, ya sea por las asociaciones de propietarios de inmuebles o por los arrendadores de inmuebles.",
+    "expected_keyword": []
+  },
+  {
+    "id": "9c8ddbc2-91f4-4867-b49d-3742e7c0813a",
+    "input": "¿Es necesario que el interesado este suscrito al contrato de arrendamiento de la vivienda?",
+    "output": "La Ley 19401 del General de Urbanismo y Construcciones, de 1975, establece que el contrato de arrendamiento de una vivienda no puede ser celebrado sin la participación del interesado. En caso de no estar suscrito, la Ley establece que el interesado debe ser notificado por escrito, con ocho días de antelación al contrato de arrendamiento.",
+    "expected_keyword": []
+  }
+]

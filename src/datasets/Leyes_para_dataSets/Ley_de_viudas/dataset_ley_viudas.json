@@ -1,0 +1,98 @@
+[
+  {
+    "id": "6a49e27f-ef01-40d9-a3e4-6ca878c307e6",
+    "input": "¿Que protege esta ley?",
+    "output": "Esta ley protege a las viudas y hijos menores de los obreros y empleados fallecidos en la catástrofe ocurrida en Sewell en el mes de Junio de 1945. La ley estipula que la Caja de Previsión de Empleados Particulares otorgará una cantidad de $ 20.000 y $ 5.000, respectivamente, en cada una de las viudas de los imponentes fallecidos y los hijos menores.",
+    "expected_keyword": []
+  },
+  {
+    "id": "92cd7af5-aa96-44cc-b718-47692b20e338",
+    "input": "¿A quien cubre esta ley?",
+    "output": "Esta ley cubre a los trabajadores en Chile que han fallecido en la catástrofe ocurrida en Sewell en el mes de Junio de 1945. Los beneficios de la ley se pagarán a las viudas y hijos menores de los trabajadores fallecidos. La empresa Braden Copper se encargará del pago de las sumas en ayuda a las viudas e hijos menores. La ley se regirá desde la fecha de su publicación en el Diario Oficial y se promulgará como ley de la República.",
+    "expected_keyword": []
+  },
+  {
+    "id": "5dd1ba4f-f9c3-4aaf-86fd-21513f1283d0",
+    "input": "¿Cuantos articulos posee esta ley?",
+    "output": "Esta ley tiene un único artículo.",
+    "expected_keyword": []
+  },
+  {
+    "id": "9f258a38-592f-4a44-9637-fae5533fc449",
+    "input": "¿Cual es el numero de esta ley?",
+    "output": "La ley en cuestión es la ley 8,572.",
+    "expected_keyword": []
+  },
+  {
+    "id": "f27f6763-4590-4148-8740-e3b7b1b9cb19",
+    "input": "¿De que habla esta ley?",
+    "output": "Esta ley regula la asistencia médica y social de los obreros y empleados fallecidos en Chile, y establece la contribución de la empresa Braden Copper para ayudar a las viudas y hijos menores de los trabajadores muertos. La ley dice que la empresa Braden Copper contribuirá con $20,000 cada una de las viudas y $5,000 cada hijo menor en ayuda de los imponentes fallecidos en la catástrofe ocurrida en Sewell en junio de 1945. La ley también indica que esta contribución será aumentada en $5,000 por cada hijo menor. Esta ley se publicó en el Diario Oficial y se promulgó como ley de la República.",
+    "expected_keyword": []
+  },
+  {
+    "id": "5612e165-1391-4d1b-8a82-c7385bd28367",
+    "input": "¿Cual fue la ultima modificacion de esta ley?",
+    "output": "La última modificación de esta ley fue publicada en el Diario Oficial el 24 de septiembre de 1946.",
+    "expected_keyword": []
+  },
+  {
+    "id": "11c77ea7-39da-4188-a5f2-6f5aa538b468",
+    "input": "¿Cuantos anexos contiene esta ley?",
+    "output": "La ley 8572 \"Autorización para la Caja de Previsión de los Empleados Particulares\" tiene un único anexo, que especifica la cantidad de aportes que se deberán a la Caja de Previsión de los Empleados Particulares por parte de los empresarios. Este anexo se encuentra en el Decreto Supremo N° 1945 del 24 de septiembre de 1945 y establece que cada empresa deberá aportar 10 millones de pesos al año para financiar la prestación de previsión de los trabajadores de la Caja de Previsión de los Empleados Particulares.",
+    "expected_keyword": []
+  },
+  {
+    "id": "8150c342-3174-4168-b63e-b09c33dcc8f2",
+    "input": "¿Cuantos articulos tiene esta ley?",
+    "output": "Esta ley tiene un total de 5 artículos.\n\n1. Artículo 1: Autorizase a la Caja de Previsión de Empleados Particulares para conceder, por una sola vez, la cantidad de $ 20.000 a cada una de las viudas de los imponentes fallecidos en la catástrofe ocurrida en Sewell en el mes de Junio de 1945. Esta cantidad será aumentada en $ 5.000 por cada hijo menor.\n2. Artículo 2: Esta ley regirá desde la fecha de su publicación en el Diario Oficial.\n3. Artículo 3: La empresa Braden Copper contribuirá con igual cantidad en ayuda de las viudas e hijos menores de los obreros y empleados fallecidos.\n4. Artículo 4: Esta ley será publicada en el Diario Oficial y promulgada por el Ministerio de Salubridad, Previsión y Asistencia Social.\n5. Artículo 5: Publicación: 24-Sep-1946 | Promulgación: 24-Sep-1946\n\nReferencia: Ley Numeral 8572, Autoriza a la Caja de Previsión de Empleados Particulares para conceder, por una sola vez, la cantidad de $ 20.000 a cada una de las viudas de los imponentes fallecidos en la catástrofe ocurrida en Sewell en el mes de Junio de 1945.",
+    "expected_keyword": []
+  },
+  {
+    "id": "9f067731-30cf-4f9a-a477-ec9571e43e7f",
+    "input": "¿Que regula esta ley?",
+    "output": "La ley N.º 8,572 regula la asignación de una cantidad de $20,000 a cada una de las viudas de los imponentes fallecidos en la catástrofe ocurrida en Sewell en el mes de Junio de 1945. Esta cantidad será aumentada en $5,000 por cada hijo menor de los obreros y empleados fallecidos. La empresa Braden Copper contribuirá con igual cantidad en ayuda de las viudas e hijos menores de los obreros y empleados fallecidos. La ley regirá desde la fecha de su publicación en el Diario Oficial y estará en efecto como ley de la República. La ley fue aprobada y sancionada por el Congreso Nacional y promulgada por el presidente.",
+    "expected_keyword": []
+  },
+  {
+    "id": "15f5eade-8666-4fcc-835d-06add24b0cc0",
+    "input": "¿Cuantos titulos tiene la ley?",
+    "output": "La ley tiene dos títulos:\n\n1. La ley aproba la contribución de los imponentes fallecidos en la catástrofe ocurrida en Sewell en el mes de Junio de 1945. Esta contribución será aumentada en $ 5.000 por cada hijo menor. La empresa Braden Copper contribuirá con igual cantidad en ayuda de las viudas e hijos menores de los obreros y empleados fallecidos.\n2. La ley regirá desde la fecha de su publicación en el Diario Oficial. La empresa Braden Copper contribuirá con igual cantidad en ayuda de las viudas e hijos menores de los obreros y empleados fallecidos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "c479c05a-b24e-4dc2-bd59-21d93d2dc4b7",
+    "input": "¿Cuando comienzan a regir las normas de esta ley?",
+    "output": "La ley regirá desde la fecha de su publicación en el Diario Oficial.",
+    "expected_keyword": []
+  },
+  {
+    "id": "b7c587b0-8610-4184-9d6d-3894d4f62b22",
+    "input": "¿Que debe hacer la caja de prevision de empleados particulares una vez autorizados segun esta ley?",
+    "output": "La caja de prevision de empleados particulares debe sobresalir con $20.000 a cada una de las viudas de los imponentes fallecidos en la catástrofe ocurrida en Sewell en el mes de Junio de 1945. Esta cantidad será aumentada en $5.000 por cada hijo menor.",
+    "expected_keyword": []
+  },
+  {
+    "id": "aad3bb00-2f55-4cff-9580-9df77060e3bd",
+    "input": "¿Cuales son las condiciones de esta ley?",
+    "output": "La condición para aplicar esta ley es que se deba ser una viuda o hijo menor de un obrero o empleado fallecido. La ley también establece que la empresa Braden Copper deberá contribuir con una cantidad igual a la de $20.000 en ayuda a dichas viudas o hijos menores. Además, se establecen las fechas de publicación y entrada en vigencia de la ley.",
+    "expected_keyword": []
+  },
+  {
+    "id": "776d09a2-ef29-403f-9e6f-5ff7246d084b",
+    "input": "¿Quien dio la aprobacion de esta ley?",
+    "output": "Las dos últimas líneas del texto proporcionan la información sobre quien da la aprobación de la ley. En este caso, la ley fue aprobada por el Congreso Nacional y sancionada por el Presidente de la República.",
+    "expected_keyword": []
+  },
+  {
+    "id": "c73b95ee-817c-41c6-b057-0c01107c022c",
+    "input": "¿Cual es la suma de dinero que debe recibir cada viuda?",
+    "output": "La suma de dinero que cada viuda debe recibir es $8.572.",
+    "expected_keyword": []
+  },
+  {
+    "id": "57d18176-6143-4e22-aff5-2537a5552f00",
+    "input": "¿Por que se creo esta ley?",
+    "output": "La ley 8572 fue creada para ayudar a las viudas y los hijos menores de los obreros y empleados fallecidos en Chile. La ley concede un fondo de previsión a cada una de ellas, con la intención de ayudarlas a mantener su vida en la misma medida que los imponentes de previsión normalmente se pagarían a partir de su muerte. La ley también establece una contribución adicional a contribuir con el fondo de previsión de este grupo de personas.",
+    "expected_keyword": []
+  }
+]

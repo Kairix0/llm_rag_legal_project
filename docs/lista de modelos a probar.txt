@@ -1,0 +1,15 @@
+Recomendación de orden de prueba:
+
+    ✅ Mistral (listo)
+    
+    ✅ Zephyr-7B-Beta (listo)
+
+    ✅ OpenHermes-2.5-Mistral (listo)
+
+    ✅ MythoMax-L2-Mistral (listo)
+
+    ✅ Phi-2 (listo)
+
+    🔶 Nous-Hermes-13B (4bit, con offloading)
+
+    🔶 Chronos-Hermes-13B (4bit, con offloading)

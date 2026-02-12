@@ -1,0 +1,182 @@
+[
+  {
+    "id": "d8f225d0-e555-4cea-890b-34f6f39fac48",
+    "input": "¿Que protege esta ley?",
+    "output": "Esta ley protege a los tribunales de Chile de las definiciones de la ley 19.640, orgánica constitucional del Ministerio Público, la ley 17.997, orgánica constitucional del Tribunal Constitucional y la ley 18.460, orgánica constitucional del Tribunal Calificador de Elecciones, las definiciones de la ley 18.575, orgánica constitucional de Bases Generales de la Administración del Estado y la ley 18.593, sobre Tribunales Electorales Regionales y las definiciones de la ley 18.918, orgánica constitucional del Congreso Nacional.",
+    "expected_keyword": []
+  },
+  {
+    "id": "32dc20d4-1d2a-41e1-8634-bd85b3170f42",
+    "input": "¿A quien cubre esta ley?",
+    "output": "La ley 20880 se refiere a la ley orgánica constitucional N°18.918 y avaria los artículos 66 y 66 A de la misma. La ley cubre a los funcionarios de las categorías B y C de las plantas de empresas estatales, así como a los abogados secretarios de comisiones correspondientes, los secretarios generales de la Cámara de Diputados y del Senado, y el director de la Biblioteca del Congreso Nacional, así como a quienes integren el Consejo Resolutivo de Asignaciones Parlamentarias o el Comité de Auditoría Parlamentaria.",
+    "expected_keyword": []
+  },
+  {
+    "id": "d86b963a-4b0f-44c0-8e76-ee3f2d2b2585",
+    "input": "¿Cuantos articulos posee esta ley?",
+    "output": "This is a legal document that appears to be a law. It appears to be a law that was passed by the Congress of Chile and signed into law by the President of Chile. The law appears to be aimed at regulating the behavior of individuals and organizations in the public sector, particularly in relation to issues of probity and prevention of conflicts of interest. The law appears to establish norms and procedures for investigating and prosecuting individuals and organizations that engage in improper behavior, as well as for preventing such behavior from occurring in the first place. The law also appears to establish mechanisms for reporting and investigating improper behavior, as well as for imposing penalties and sanctions on those found guilty.",
+    "expected_keyword": []
+  },
+  {
+    "id": "f62f576b-b26b-452d-99f9-5d486a3ebaa0",
+    "input": "¿Cual es el numero de esta ley?",
+    "output": "The text appears to be a law, specifically a ley, from Chile. It pertains to issues of probidad, or integrity, in the exercise of public functions. The law establishes the principle of probidad, which involves conducting oneself in an intachable and honest manner while in a public position, giving priority to the general interest over the particular interest. The law also defines what constitutes a conflict of interest in the exercise of public functions and specifies the responsibilities and penalties for violating the principle of probidad.",
+    "expected_keyword": []
+  },
+  {
+    "id": "3e9277b1-1f08-42de-881f-1013dbd9a063",
+    "input": "¿De que habla esta ley?",
+    "output": "La ley 20880 es una ley orgánica constitucional de Chile que regula la probidad en la función pública. Esta ley se refiere a la obligación de presentar una declaración de intereses y una declaración de patrimonio, y establece sanciones para quienes no cumplen con estas obligaciones. La ley también establece el procedimiento por el cual se iniciara una acción de oficio o de denuncia fundada de cualquier interesado y el procedimiento para contestar los cargos y dictar una resolución. Además, la ley establece el periodo probatorio y los medios de prueba que se pueden utilizar.",
+    "expected_keyword": []
+  },
+  {
+    "id": "56a9f73b-720a-4847-a94a-375f7177cc37",
+    "input": "¿Cual fue la ultima modificacion de esta ley?",
+    "output": "La última modificación de esta ley fue el 24 de diciembre de 2015, mediante el Decreto Legislativo N° 7616-06 del Proyecto de Ley sobre probidad en la función pública.",
+    "expected_keyword": []
+  },
+  {
+    "id": "ae2f2306-19e2-43a8-afb7-6830c6cbce5f",
+    "input": "¿Cuantos anexos contiene esta ley?",
+    "output": "La ley 21073 contiene 7 anexos:\n\n1. Artículo 167\n2. Artículo 169\n3. Artículo 170\n4. Artículo 171\n5. Artículo 172\n6. Artículo 173\n7. Artículo 174",
+    "expected_keyword": []
+  },
+  {
+    "id": "41d932a9-2283-489b-8ee9-7e906d2429ed",
+    "input": "¿Cuantos articulos tiene esta ley?",
+    "output": "La ley 2086062S2230952 tiene 22 artículos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "383232b8-be64-4ef9-9df9-fe555de163f5",
+    "input": "¿Que regula esta ley?",
+    "output": "La ley que regula esta norma es la Ley General de Formas\nPúblicas y Privadas, la Ley General Estatal de\nFunciones Públicas y la Ley General de\nAdministración Civil.",
+    "expected_keyword": []
+  },
+  {
+    "id": "3496073a-88ea-498c-9f3e-16e449bb76bd",
+    "input": "¿Cuantos titulos tiene la ley?",
+    "output": "La ley N° 19.640 tiene 88 artículos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "d8bdb12e-ebf8-4af5-a873-7d9a6e8d0d2b",
+    "input": "¿Que declaracion deben hacer los sujetos señalados?",
+    "output": "Los sujetos señalados deben realizar las declaraciones de intereses y patrimonio en los términos señalados en los artículos 5°, 6°, 7° y 8. de la Ley 20880. Documento firmado digitalmente por Diego Matte Palacios, Director. Para validar, acceder al sitio web www.leychile.cl/validar e ingresar código N1086062S2230952. Documento generado el 16-Abr-2025 página 7 de 29.",
+    "expected_keyword": []
+  },
+  {
+    "id": "098621f9-9794-4936-8133-bbfe64bd997e",
+    "input": "¿Que sucede con los inmuebles ubicados en el extranjero?",
+    "output": "El artículo 101 de la Ley de Inmuebles del Reino de\nChile establece que los inmuebles ubicados en el extranjero son\nobligados a la jurisdicción del artículo 102. El artículo 102\nestablece que los juzgados del extranjero, por los cuales\nesté sujeto a una acción, son de la obligación de guardarlo.\n\nPor lo tanto, los inmuebles ubicados en el extranjero serán\njuzgados por los juzgados de la jurisdicción a la cual se\nentrega, esto es, por los juzgados del Reino de Chile\nsiendo el extranjero fuera de la jurisdicción del Reino.\n\nEn el caso de los inmuebles ubicados en el extranjero que están\nsujetos a la Ley de Inmuebles del Reino de Chile, seiren\nobligados a presentarse ante el juzgado correspondiente\na la jurisdicción de la residencia de los\npropietarios o, en caso de no estar asignado, a la\njurisdicción de la residencia de los beneficiarios.",
+    "expected_keyword": []
+  },
+  {
+    "id": "7ee668bf-89f7-446d-bbb5-36e746279fd4",
+    "input": "¿Que debera comprender la declaracion de interes y patrimonio?",
+    "output": "La declaración de interéses y patrimonio es una declaración que se deben realizar por las personas que participan en el Congreso Nacional y las empresas que participan en los procesos de licitación de la República de Chile. Su objetivo es proporcionar información sobre los intereses y patrimonio de las personas y empresas recientes a los cargos, para garantizar la transparencia y la ética en las decisiones políticas y económicas.\n\nLa declaración de intereses y patrimonio se debe hacer en los plazos específicos establecidos en la ley N.º 24.185, de 1964, del Ministerio de Hacienda. La declaración debe contener la información sobre el patrimonio neto, las inversiones en empresas, las inversiones en acciones de empresas y las inversiones en contratistas, entre otras informaciones.\n\nEn caso de no cumplir con los plazos establecidos, se aplican sanciones en forma de multas. La multa se realiza de forma directa desde la dieta del parlamentario o de la empresa. En caso de incumplimiento, la multa se repite por cada mes adicional de retardo y la cantidad de la multa aumenta en función del tiempo de retardo.\n\nLa declaración de intereses y patrimonio se realiza por las comisiones de ética y transparencia del Congreso Nacional, las comisiones de ética y transparencia de las cámaras parlamentarias y las comisiones de ética y transparencia de los ministerios y juntas directrices.",
+    "expected_keyword": []
+  },
+  {
+    "id": "ebe5e8ef-288f-493e-8acc-5fb7f5d4b914",
+    "input": "¿Segun esta ley que efectua la contraloria gneral de la republica?",
+    "output": "La ley N° 18.614 de 1969, la Ley de Instructuras de Seguridad en la Informática, es la ley que regula la contraloría general de la República en materia informática.\n    1. Artículo 1.- (Definiciones)\n    2. Artículo 2.- (Autoridades)\n    3. Artículo 3.- (Funciones)\n    4. Artículo 4.- (Registrar y Anular)\n    5. Artículo 5.- (Aprobaciones y Rechazos)\n    6. Artículo 6.- (Informes)\n    7. Artículo 7.- (Definiciones)\n    8. Artículo 8.- (Funciones)\n    9. Artículo 9.- (Registrar y Anular)\n    10. Artículo 10.- (Aprobaciones y Rechazos)\n    11. Artículo 11.- (Informes)",
+    "expected_keyword": []
+  },
+  {
+    "id": "259b2c4c-a2ec-4fad-ab5f-0fd5b1d08538",
+    "input": "¿Que informacion podra solicitar la contraloria?",
+    "output": "La Contraloría General de Chile (CGC) puede solicitar información en nombre de la Fiscalía para diversas causas, tales como:\n\n1. Auditorías: La CGC puede solicitar información para realizar auditorías de empresas y personas físicas, para verificar su cumplimiento con las leyes y reglamentos fiscales.\n2. Investigaciones: La CGC puede solicitar información para investigar supuestos delitos fiscales o irregularidades administrativas.\n3. Interrogatorios: La CGC puede solicitar información a personas físicas o jurídicas para resolver disputas fiscales o para verificar su cumplimiento con las leyes y reglamentos fiscales.\n4. Dicha multa: La CGC puede solicitar información para realizar dicha multa, que es una sanción por falta a la probidad administrativa.\n5. Denuncias: La CGC puede solicitar información en caso de denuncias fundadas de cualquier interesado.\n6. Interés especial: La CGC puede solicitar información en caso de interés especial, en caso de una cuestión muy relevante o de interés general.\n\nEn general, la CGC puede solicitar información por cualquier motivo relacionado con sus funciones de fiscalización y auditoría, y en caso de no recibir la información solicitada, puede solicitar recursos judiciales para obtenerla.",
+    "expected_keyword": []
+  },
+  {
+    "id": "db4f5e9a-2da2-48fd-b167-c3b5ea1c6387",
+    "input": "¿Hay otros ministerios relacionados a esta ley?",
+    "output": "En la ley 20880 de Bases Generales de la Ley sobre Probidad en la Función Pública y Prevención de los Conflictos de Interéses, hay referencias a otros ministerios relacionados con la ley. En particular, se referen a la Superintendencia del Medio Ambiente y la Superintendencia del Trabajo y Prevención de los Riesgos Laborales. Además, se especifica que la Ley 693 de 1991, que creó la Dirección General de Bases Generales del Ministerio de Hacienda y el Ministerio de Economía, Finanzas y Competitividad, se regirá por los artículos 38 a 61 de esta ley.",
+    "expected_keyword": []
+  },
+  {
+    "id": "bec4945b-383b-4155-a91b-e9cd382ca564",
+    "input": "¿Se nombran otras leyes en este documento?",
+    "output": "Sí, se nombran otras leyes en este documento. Los artículos 66 y 66 A de la Ley N°18 se refieren a la Ley N°18 de la República de Chile, que establece los procedimientos para la administración de las asignaciones parlamentarias y los servicios de la Cámara de Diputados y del Senado.",
+    "expected_keyword": []
+  },
+  {
+    "id": "c9320b45-257e-4f70-84ea-6577adc9bf16",
+    "input": "¿si la declaracion de intereses y patrimonio no se efectua dentro del plazo dispuesto que pasa?",
+    "output": "No se puede decir si pasa o no al no hacer la declaración de intereses y patrimonio dentro del plazo dispuesto, ya que la respuesta depende del contexto y de la ley específica que regula el proceso. Algo que puede ocurrir es que se impone una sanción legal por no cumplir con el plazo.",
+    "expected_keyword": []
+  },
+  {
+    "id": "fc2eb78f-10cd-4060-9b20-6ed9ffaaad10",
+    "input": "¿Que pasa si la declaracion de intereses y patrimonio esta incompleta o inexacta?",
+    "output": "Si la declaración de intereses y patrimonio esta incompleta o inexacta, se realizará una multa de cinco a cincuenta unidades tributarias mensuales. El procedimiento podrá iniciarse por el tribunal respectivo de oficio o por denuncia fundada de cualquier interesado. La formulación de cargos dará al afectado el derecho a contestarlos en el plazo de diez días hábiles. En caso de ser necesario, el período probatorio será de ocho días hábiles. Podrán utilizarse todos los medios de prueba, siendo ésta apreciada conforme a las reglas de la sana crítica. La Corte deberá dictar la resolución final dentro de los diez días hábiles siguientes a aquel en que se evacuó la última diligencia. La multa se reiterará por cada mes adicional de retardo desde la notificación de la resolución que impone la sanción. En contra de la resolución que se pronuncie sobre la sanción procederá recurso de reposición, dentro de quinto día de notificada la resolución respectiva.",
+    "expected_keyword": []
+  },
+  {
+    "id": "3f587b84-e6be-4a17-aba9-ed7cb70ac0dd",
+    "input": "¿Se aplican articulos de otras leyes dentro de esta ley?",
+    "output": "En Chile, las leyes se aplican una sobre otra, pero si un artículo se refiere a un otro artículo que no está expresamente en la misma ley, se considera como una referencia al artículo anterior. En este caso, si se refiere a un artículo que se encuentra en una ley anterior, se debería aplicar la normativa de la ley anterior. Es importante considerar la ley que se refiere al artículo específico y cual es su última disposición, ya que esto puede afectar el cumplimiento de la ley posterior. Además, si el artículo anterior se refiere a una disposición que se encuentra en la ley posterior, se debería aplicar la normativa de la ley posterior, ya que es la última ley que se applía en ese caso.",
+    "expected_keyword": []
+  },
+  {
+    "id": "e8753d71-6212-40e3-8675-888567573115",
+    "input": "¿Que indica el articulo 20?",
+    "output": "El artículo 20 del Código Orgánico Judicial indica:\n\n\"La declaración de ineficacia se presentará ante el jefe de la sección de calificación de las declaraciones de ineficacia, dentro del plazo de diez días hábiles desde que se notifique la resolución.\"\n\nEste artículo señala que la declaración de ineficacia debe ser presentada ante el jefe de la sección de calificación de las declaraciones de ineficacia, dentro del plazo de diez días hábiles desde que se notifique la resolución. La declaración de ineficacia se utiliza cuando se considera que una sentencia o resolución no ha sido ejecutada o no ha dado lugar a los efectos que se esperaban.",
+    "expected_keyword": []
+  },
+  {
+    "id": "a1e284a5-a06d-4f28-95aa-bb5424f552d6",
+    "input": "¿Mi cliente no declaro dentro del plazo dispuesto?",
+    "output": ">",
+    "expected_keyword": []
+  },
+  {
+    "id": "9ece59a8-23c1-4531-ad4f-3446484cf874",
+    "input": "¿Cual es el precio de la multa?",
+    "output": "La multa por infractorismo sería calculada según el artículo 12 del Código Penal, por el valor del daño o la pérdida causada por el incumplimiento de la obligación. El Contralor General de la República se encargaría de calcular y determinar la sanción y then procedería a notificarla a la persona infractora según corresponda, como explicó anteriormente.",
+    "expected_keyword": []
+  },
+  {
+    "id": "4e8f527b-e5da-4b5c-bee4-2c391a57541f",
+    "input": "¿Que pasa si la multa no se paga?",
+    "output": "En caso de no pagar la multa, el procedimiento que se seguirá dependerá del tipo de multa y las leyes que están aplicables. En general, el procedimiento podría ser:\n\n1. El tribunal podría notificar al agente de la Policía Nacional que el cumplimiento de la multa no ha sido realizado y pedir que tome las medidas necesarias para encontrar a quienes se deben imponer las sanciones.\n2. El tribunal podría reiterar la notificación de la multa y dar al agente de la Policía Nacional la orden de buscar a los responsables.\n3. El tribunal podría pedir al agente de la Policía Nacional que realice una búsqueda de los responsables en las bases de datos de la Policía Nacional.\n4. El tribunal podría realizar una diligencia a las personas que se supone que son responsables de la multa no pagada y pedir que se presenten ante el tribunal en una fecha determinada.\n5. El tribunal podría otorgar el mismo tipo de multa que se impuso originalmente en caso de no presentarse los responsables en la diligencia.\n6. El tribunal podría declarar al agente de la Policía Nacional como responsable de la multa no pagada y ordenarle a este que realice el seguimiento de la multa y la entrega de las sanciones al responsable.\n\nEn cualquier caso, el agente de la Policía Nacional tendrá que seguir el procedimiento establecido en la ley para encontrar a quienes se deben imponer las sanciones.",
+    "expected_keyword": []
+  },
+  {
+    "id": "642618af-d5cc-422b-a196-7f0dabed0e67",
+    "input": "¿Al violar esta ley se aplican todos los articulos o depende del caso?",
+    "output": "Al violar esta ley se aplican todos los artículos. El artículo 69 de la Ley de la\nRepository y la Administración Pública, establece que si se realiza una\ninfracción contra esta ley, se sancionarán las personas o\nentidades responsables de la infracción con multa o con\npena de reclusión.",
+    "expected_keyword": []
+  },
+  {
+    "id": "ce0bf31f-3dea-405e-940c-dc92cef9bb1e",
+    "input": "¿Que documentos puede solicitar contraloria?",
+    "output": "Las personas jurídicas e ingresaron el código Título 18.575 de la Ley N°18.575 y el artículo 3° se le solicitó al consejo, quien empleó su poder de decisión para declarar el estado de suficiencia de su fiscalía. Sin embargo, la ley establece que las personas jurídicas deberán hacer una declaración de intereses y patrimonio anualmente. Los artículos 65, 66 y 68 del Título 4 de la Ley N°18.575 regulan las responsabilidades y las sanciones en caso de no hacer la declaración de intereses y patrimonio o de hacerla con inexactitudes o omisiones.",
+    "expected_keyword": []
+  },
+  {
+    "id": "95844aab-83b3-4eea-9d3b-0315f772a6b7",
+    "input": "¿En el articulo 46, a quien le corresponde velar por el cumplimiento de las disposiciones de este titulo?",
+    "output": "En el artículo 46 del título III de la Ley N° 19.640, se establece que \"el ministro de la Economía y Competitividad\" corresponde a velar por el cumplimiento de las disposiciones de este título.",
+    "expected_keyword": []
+  },
+  {
+    "id": "76873256-1c2a-41e8-b213-cc96898146bd",
+    "input": "¿Quien aplicara las sanciones establecidas?",
+    "output": "La Contraloría General de la República aplicaría las sanciones establecidas según las leyes y reglas en vigencia. En este caso, el artículo 46 de la Ley 20880 de Administración Fiscal establece que las autoridades infractoras serán sancionadas con multa a beneficio fiscal de diez a mil unidades tributarias mensuales.",
+    "expected_keyword": []
+  },
+  {
+    "id": "22626cf1-ee84-454c-a5d4-a7034a2c5f1e",
+    "input": "¿Cuantas leyes relacionadas hay en esta ley?",
+    "output": "La ley 18.918 relaciona con la ley 15.918.",
+    "expected_keyword": []
+  },
+  {
+    "id": "96fb1b58-ddd5-4053-84ee-4504e2f3d5d7",
+    "input": "¿Quien aplica las multas a personas juridicas que desempeñen como mandatario?",
+    "output": "Las multas a personas jurídicas que desempeñen como mandatario se aplican a quienes han sido declarados culpables de una falta a la probidad administrativa por un incumplimiento de obligaciones\neconómicas, fiscales o de derechos tributarios. Estas personas se consideran infractores y pueden ser sancionadas con multas de importe varía dependiendo del grado de falta a la probidad administrativa. En Chile, la ley especifica los procedimientos para la sanción de estas personas y los plazos en los que deben ser sancionados.",
+    "expected_keyword": []
+  }
+]

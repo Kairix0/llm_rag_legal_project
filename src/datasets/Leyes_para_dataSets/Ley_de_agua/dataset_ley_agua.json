@@ -1,0 +1,182 @@
+[
+  {
+    "id": "43197f17-74b4-4ebc-a77c-8e8a4a399552",
+    "input": "¿Que protege esta ley?",
+    "output": "La ley N° 382 (de 1988) del Ministerio de Obras Públicas protege las prestaciones relacionadas con los servicios de agua potable y sanitarios. Establece la forma y condiciones para producir y distribuir agua potable, recolectar, tratar y disponer aguas servidas, y realizar otras prestaciones relacionadas con estas actividades.",
+    "expected_keyword": []
+  },
+  {
+    "id": "ecab106e-53a1-4f7f-86ea-7820e0f6483f",
+    "input": "¿A quien cubre esta ley?",
+    "output": "Esta ley, la Ley General de Pensiones de los Trabajadores, suele cubrir a los trabajadores en el sector público, los servicios públicos y los organismos de interés público. También puede aplicarse a los trabajadores en las entidades autonómicas y las mutualidades.",
+    "expected_keyword": []
+  },
+  {
+    "id": "7605acd5-a98f-416e-91e9-ff62ca76ec72",
+    "input": "¿Cuantos articulos posee esta ley?",
+    "output": "Artículo 1.- El presente decreto ley determina las\ncondiciones en que se pueden prever y otorgar\npensiones de invalidez.",
+    "expected_keyword": []
+  },
+  {
+    "id": "84c8128a-1eae-40e5-b70d-f28cc706eeb3",
+    "input": "¿Cual es el numero de esta ley?",
+    "output": "La ley es número 1988, del año 1989.",
+    "expected_keyword": []
+  },
+  {
+    "id": "f45a544c-4ab7-413b-af0d-d78955d6906a",
+    "input": "¿De que habla esta ley?",
+    "output": "La ley de 1985 es una ley chilena que define las condiciones sociales, fiscales y laborales para la incorporación de las empresas como sociedades anónimas de la República de Chile. La ley establece las normas de incorporación, la responsabilidad de los sociedades anónimas y los requisitos para la liquidación de estas empresas. La ley ingresa en las normas de la contraloría general de la República de Chile y se publica en el diario oficial de la República. La ley también establece las normas de la contraloría de los servicios públicos, la contraloría del banco central y la superintendencia de las mutualidades y las entidades de derecho público, entre otros.",
+    "expected_keyword": []
+  },
+  {
+    "id": "f5afc231-5af9-47bf-be4c-f4edf573b86c",
+    "input": "¿Cual fue la ultima modificacion de esta ley?",
+    "output": "La última versión de esta ley es la del año 2003, la cual modificó el Ministerio de Economía, Fomento y Reconstrucción.",
+    "expected_keyword": []
+  },
+  {
+    "id": "21d08b80-ee8e-4e6e-aac4-6703efbdc0b8",
+    "input": "¿Cuantos anexos contiene esta ley?",
+    "output": "Esta ley contiene 6 anexos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "a95ce6c0-8b30-4ef1-846d-0eba6739851d",
+    "input": "¿Cuantos articulos tiene esta ley?",
+    "output": "La ley 18885 de CORONADELLOS tiene 28 artículos.",
+    "expected_keyword": []
+  },
+  {
+    "id": "f38fa2de-5f16-47d2-9572-616e58b69caa",
+    "input": "¿Que regula esta ley?",
+    "output": "La ley del 8° de diciembre de 1989 regula la administración fiscal y de la contraloría.",
+    "expected_keyword": []
+  },
+  {
+    "id": "223504ba-03cc-4aec-9f5a-b4edb8c83196",
+    "input": "¿Cuantos titulos tiene la ley?",
+    "output": "La ley tiene los siguientes títulos:",
+    "expected_keyword": []
+  },
+  {
+    "id": "92e2715d-21bd-4b7e-ae26-6762f654e9b6",
+    "input": "¿Quien dio la aprobacion de esta ley?",
+    "output": "La aprobación de esta ley fue dada por el Presidente de la República, Augusto Pinochet Ugarte.",
+    "expected_keyword": []
+  },
+  {
+    "id": "bf62c941-a3f7-43e6-84e0-f727c3d6919e",
+    "input": "¿Cuando comienzan a regir las normas de esta ley?",
+    "output": "Las normas de esta ley comenzarán a regirse desde el 1 de enero de 2003.",
+    "expected_keyword": []
+  },
+  {
+    "id": "c237a934-b910-4a50-865d-dc0acb574ddf",
+    "input": "¿Que constituira el fisco de chile segun esta ley?",
+    "output": "Según la ley, el fisco de Chile será representado por el Tesorero General de la República y tendrá una participación del 1% en las sociedades anónimas que se creen en los meses siguientes y en las que se inicien las actividades legales. Además, la Corporación de Fomento de la Producción, la Proporción a los Activos y Pasivos de la Corporación de Fomento de la Producción y la Proporción a los Activos y Pasivos de la Corporación de Fomento de la Producción también serán las sucesoras legales de las empresas mencionadas en el artículo anterior, contando de la fecha en que inicien su existencia legal, en cuanto a las funciones, derechos, obligaciones y capital correspondientes a la producción y distribución de agua potable y recolección, tratamiento y disposición de aguas servidas, y demás prestaciones relacionadas con las antedichas actividades en la respectiva región.",
+    "expected_keyword": []
+  },
+  {
+    "id": "e2a07dab-ffc7-48f5-933b-02a45a85efe2",
+    "input": "¿De que son responsables las empresas mencionadas en el articulo 2° de esta ley?",
+    "output": "Las empresas mencionadas en el artículo 2° de esta ley son las empresas más grandes de Chile y están obligadas a pagar impuestos por un 2% de sus ingresos anuales, con base al valor de\nla producción de los bienes y servicios que venden.",
+    "expected_keyword": []
+  },
+  {
+    "id": "6fd7ebb4-1ea8-43b1-aa23-e243209e6305",
+    "input": "¿Que derecho se les consagra a los trabajadores segun esta ley?",
+    "output": "En esta ley, se consagra al personal que se encuentra actualmente\nafiliado al Instituto de Normalización Previsional, sujeto a los regímenes de la Caja Nacional de Empleados Públicos y Periódicos o al Servicio de Seguro Social, sin perjuicio de su derecho a optar por el régimen establecido en el decreto ley N° 3.500 de 1980. Para efectos de cálculo de los beneficios previsionales que procedan, se aplicará lo dispuesto en el artículo 15 de la ley N° 18.675, considerando como remuneraciones imponibles las que habían correspondido conforme la ley anterior.",
+    "expected_keyword": []
+  },
+  {
+    "id": "c26645c6-6c76-4578-b8cf-94a35e71fca9",
+    "input": "¿En que consiste el patrimonio inicial de las sociedades que salen en esta ley?",
+    "output": "Según el artículo 2.2 de la Ley de Sociedades Anónimas, el patrimonio inicial de las sociedades anónimas que se crean o que se forman como consecuencia de la ley será el capital social y los activos que se hayan destinado a dicho fin.",
+    "expected_keyword": []
+  },
+  {
+    "id": "5e58452d-4ca5-43ef-acb7-c1a0253d8385",
+    "input": "¿Que debe hacer el servicio nacional de obras sanitarias?",
+    "output": "El servicio nacional de obras sanitarias (SNOOS) es una entidad jurídica de la República de Chile que asegura la calidad, seguridad y sostenibilidad de los servicios sanitarios.",
+    "expected_keyword": []
+  },
+  {
+    "id": "24d5ca9d-180c-4414-950e-319f160b169f",
+    "input": "¿Que sucede con los bienes muebles e inmuebles de las sociedades relacionadas a esta ley?",
+    "output": "La ley dicta que los bienes muebles se deben individualizar a través de decretos supremos expedidos por el Ministerio de Economía, Fomento y Reconstrucción. Las inscripciones de dominio y anotaciones a nombre de la sociedad anónima correspondiente deben ser practicadas por los conservadores respectivos con la sola presentación de copia autorizada del respectivo decreto. Los bienes y derechos referidos en el inciso precedente deben ser individualizados a través de decretos supremos expedidos por el Ministerio de Economía, Fomento y Reconstrucción. Las sociedades anónimas successoras legales de cada una de las direcciones regionales deberán individualizar los bienes y derechos referidos en el inciso precedente a través de decretos supremos expedidos por el Ministerio de Economía, Fomento y Reconstrucción.",
+    "expected_keyword": []
+  },
+  {
+    "id": "1a759b8c-ecba-4bb9-843b-d8e0ea77a09d",
+    "input": "¿Que pasa con los activos, pasivos, derechos, bienes, etc. que tengan por objeto la constitucion de las sociedades señaladas en el articulo 2° segun esta ley?",
+    "output": "Las sociedades señaladas en el artículo 2° serán consideradas sociedades de servicios sanitarios y tienen como objeto la organización de las prestaciones de servicios sanitarios de la empresa nacional. Los activos, pasivos, derechos, bienes y otras cosas de las sociedades se consideran propiedad de las empresas, pero estarán sujetas a las leyes y regulaciones pertinentes en materia de organización de las prestaciones sanitarias y del patrimonio de las empresas. La ley otorga poderes a la Junta de Gobierno para la administración de las empresas, incluso el poder de transferir y delegar tareas. En la sede de la empresa se establecerá el Servicio Civil de las Empresas de Servicios Sanitarios, dependiente de la vicepresidencia y encargado de dirigir las tareas de la empresa y de la Junta de Gobierno. La ley también establece el cargo de Ejecutivo Director para cada empresa y establece las funciones de los cargos de la empresa, las facultades de los Cargos y Director de Servicios Sanitarios y de la Empresa de Servicios Sanitarios de la Policía de Investigaciones",
+    "expected_keyword": []
+  },
+  {
+    "id": "7ff6be85-2881-4393-9891-55ce7d4e8a6d",
+    "input": "¿Que se le concede al personal del servicio nacional de obras sanitarias?",
+    "output": "El artículo 11 de la Ley 18885 concede al personal del Servicio Nacional de Obras Sanitarias el derecho a estar afiliado al Servicio de Salud Previsional, el Servicio de Seguro Social, el Servicio de Retiro de la Administración Civil y las Fuerzas Armadas, la Caja de Empleados Públicos y los Periodistas.",
+    "expected_keyword": []
+  },
+  {
+    "id": "52bfc7b0-b900-4c54-aa9b-aa62ac17d0a7",
+    "input": "¿Que sucede con el personal que actualmente afiliado al instituto de normalizacion previsional?",
+    "output": "El personal que actualmente es afiliado al Instituto de Normalización Previsional puede seguir cotizando en los regímenes de la Caja Nacional de Empleados Públicos y Periodistas o del Servicio de Seguro Social, sin perjuicio de su derecho a optar por el régimen establecido en el decreto ley N° 3.500 de 1980. Para efectos del cálculo de los beneficios previsionales que procedan, se aplicará lo dispuesto en el artículo 15 de la ley N° 18.675, considerando como remuneraciones imponibles las que hubiesen correspondido conforme la ley.",
+    "expected_keyword": []
+  },
+  {
+    "id": "c5dfe7b3-0f0b-42cf-8892-ac8273bb3e23",
+    "input": "¿Esta ley protege de algun caso de accidente a un personal?",
+    "output": "La ley 18885 regulación de prestaciones sanitarias que a la fecha de publicación de esta ley se encuentran prestando dichos servicios, mantendrán o, en su caso, adquirirán de pleno derecho el carácter de concesionarios y se regirán por las disposiciones de este cuerpo legal. El artículo 18885 establece que las concesionarios y los prestadores de servicios sanitarios que a la fecha de publicación de esta ley se encuentran prestando dichos servicios, mantendrán o, en su caso, adquirirán de pleno derecho el carácter de concesionarios y se regirán por las disposiciones de este cuerpo legal.",
+    "expected_keyword": []
+  },
+  {
+    "id": "8a8667eb-5709-48f3-9a72-99da18708bea",
+    "input": "¿Quien tiene el derecho a percibir el desahucio segun esta ley?",
+    "output": "Las personas que trabajan en empresas anónimas y\nrecientemente formadas pueden tener derecho a percibir el\ndesahucio según la ley N° 18.834, si se retiran definitivamente del\nempleo que sirven en esa sociedad anónima. Para\ndeterminar el tiempo servido se computará desde la\nfecha de su incorporación a la respectiva empresa.",
+    "expected_keyword": []
+  },
+  {
+    "id": "abb0f33d-f675-4f1d-a3af-04922843b302",
+    "input": "¿Segun que se le reconoce el tiempo al personal para el desahucio?",
+    "output": "El artículo 8° de la Ley 1903 del Servicio Sanitario de Chile indica que las Direcciones Regionales de las Empresas de Servicios Sanitarios deben ser notificadas del desahucio a las veinticinco días antes de la fecha prevista para la operación. Los personal de las Direcciones Regionales se consideran exentos de impuestos o derechos en caso de desahucio.",
+    "expected_keyword": []
+  },
+  {
+    "id": "7e3209ad-c096-4cbf-9bfc-b4b5e1af47fb",
+    "input": "¿Que indica la zona de consecion inicial atendida por las concesionarias o prestadores de servicios sanitarios?",
+    "output": "Las concesionarias o prestadores de servicios sanitarios que a la fecha de publicación de la ley se encuentran atendiendo la zona de consecución inicial deberán ser los servicios que están atendiendo la zona de consecución inicial atendida por las concesionarias o prestadores de servicios sanitarios existentes en la fecha de publicación de la ley. Estos servicios son las empresas que están atendiendo la zona de consecución inicial con la función de prestar servicios sanitarios a las personas y a los animales.",
+    "expected_keyword": []
+  },
+  {
+    "id": "a5214f9f-bb69-4169-90f2-fefb6d7672e2",
+    "input": "¿Tengo un cliente que exempleado de una de las empresas de servicios sanitarios que aparecen en la lista, al cual no le respetaron algunos beneficios de esta ley?",
+    "output": "No, no tengo información sobre un cliente específico que se encuentra en la lista de empresas de servicios sanitarios ejemplificadas en la ley y que se le deniegan algunos beneficios de esta ley.",
+    "expected_keyword": []
+  },
+  {
+    "id": "070c9c0d-6a1c-4735-92c9-e72ff1fc942a",
+    "input": "¿La lista de empresas mencionadas en el articulo 2° remplazaran al servicio nacional de obras sanitarias?",
+    "output": "No, la lista de empresas mencionadas en el artículo 2° no remplazará al servicio nacional de obras sanitarias. La ley N 2005-050 establece una obligación de recolección de aguas servidas por parte de las empresas y las administraciones públicas integrantes del Servicio Nacional de Obras Sanitarias (SNOOS), pero no proporciona un listado específico de empresas que deberán cumplir esta obligación. En cambio, la ley establece una obligación de participación en la SNOOS para aquellas empresas y administraciones públicas que desean recoger aguas servidas. La ley también establece un servicio de control y supervisión para garantizar la cumplimiento de la obligación de recolección de aguas servidas.",
+    "expected_keyword": []
+  },
+  {
+    "id": "fc4fe10c-523a-4055-857a-04164c789cf0",
+    "input": "¿como subencionan estas empresas de obras sanitarias, indicadas en el articulo 2°?",
+    "output": "Las empresas de obras sanitarias se subencionan mediante la \nley del Servicio Nacional de Obras Sanitarias y las empresas estatales del sector.",
+    "expected_keyword": []
+  },
+  {
+    "id": "06048daa-3072-441e-a3db-47f4161c076c",
+    "input": "¿De donde se obtiene el patrimonio inicial de las sociedades mencionadas en esta ley?",
+    "output": "La ley 8777 del año 1988 establece que las sociedades anónimas de concesión de servicios públicos integrantes de la administración del Estado, las entidades concesoras de agua potable, recolección, tratamiento y disposición de aguas servidas, y demás prestaciones relacionadas con estas actividades, estarán sujetas a las disposiciones establecidas en los decretos con fuerza de ley N°s 382 y 70, ambos del año 1988, del Ministerio de Obras Públicas. La ley establece que las sociedades se incorporarán mediante la publicación en el diario oficial y la presentación de las solicitudes ante la Comisión de Concesiones de Servicios Públicos del Ministerio de Obras Públicas. También establece que las sociedades deberán presentar su patrimonio inicial, el cual será determinado en base al artículo 3° de la ley.",
+    "expected_keyword": []
+  },
+  {
+    "id": "19180083-1f1b-4dbc-b788-ee9f8879957b",
+    "input": "¿Que deben hacer las municipalidades a cuyo nombre se encuentren inscritos bienes inmuebles en actual uso o explotacion?",
+    "output": "Las municipalidades a cuyo nombre se encuentren inscritos bienes inmuebles en actual uso o explotación deben, en caso de desaparición del inquilino, entregar el inmueble al Estado a nombre de la Municipalidad, para que se lo alquile al mejor ofrecedor con condiciones más favorables. El proceso de transferencia de la propiedad se realiza a través de un proceso legal y administrativo, y se regula por la ley de las Propiedades Inmobiles.",
+    "expected_keyword": []
+  }
+]
